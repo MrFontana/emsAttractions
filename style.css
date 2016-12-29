@@ -1,3 +1,39 @@
-.name {
-  color: black;
+.tippyTop {
+  background-color: #3B8CED;
+  width: 100vw;
+  height: 20px;
+}
+
+.navContainer {
+  display: inline-flex;
+  flex-direction: row;
+  width: 100vw;
+  height: 100px;
+  background-color: green;
+  text-align: center;
+}
+
+.navLeft {
+  height: 80px;
+  width: 220px;
+  background-color: white;
+}
+.emsLogo img {
+  height: 75px;
+  width: 211px;
+}
+
+.searchImg img {
+  height: 15px;
+  width: 15px;
+}
+
+.navOptions {
+  text-align: center;
+  display: inline-flex;
+  float: right;
+  justify-content: space-between;
+  background-color: blue;
+  height: 50px;
+  width: 70vw;
 }
